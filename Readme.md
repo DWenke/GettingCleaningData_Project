@@ -18,5 +18,6 @@ This project includes the reading, merging and  cleaning of data sets to create 
     * 3. Uses descriptive activity names to name the activities in the data set 
     * 4. Appropriately labels the data set with descriptive activity names. 
     * 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
 ## Additional Information
 - See the CodeBook.md file for additional information about the files, data and details steps within each section of code. 
